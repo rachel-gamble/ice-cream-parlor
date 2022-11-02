@@ -1,0 +1,20 @@
+.round-border {
+    border: 3px solid #e7569e;
+    border-radius: 5px;
+}
+
+.bg-cream {
+    background-color: rgb(245, 209, 162);
+}
+
+.bg-pink {
+    background-color: #e7569e;
+}
+
+.text-accent {
+    color:blueviolet
+}
+
+.cursor-pointed {
+    cursor: pointer;
+}
